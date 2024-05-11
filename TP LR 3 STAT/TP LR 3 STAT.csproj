@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,6 +60,8 @@
     <Compile Include="KURS RUBL FORMS.Designer.cs">
       <DependentUpon>KURS RUBL FORMS.cs</DependentUpon>
     </Compile>
+    <Compile Include="MODEL\CurrencyData.cs" />
+    <Compile Include="MODEL\CurrencyMonthData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

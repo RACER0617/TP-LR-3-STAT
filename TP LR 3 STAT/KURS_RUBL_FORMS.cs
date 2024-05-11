@@ -12,7 +12,7 @@ using System.IO;
 using TP_LR_3_STAT.MODEL;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace TP_LR_3
+namespace TP_LR_3_STAT
 {
     public partial class KURS_RUBL_FORMS : Form
     {

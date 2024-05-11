@@ -54,11 +54,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="KURS RUBL FORMS.cs">
+    <Compile Include="KURS_RUBL_FORMS.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="KURS RUBL FORMS.Designer.cs">
-      <DependentUpon>KURS RUBL FORMS.cs</DependentUpon>
+    <Compile Include="KURS_RUBL_FORMS.Designer.cs">
+      <DependentUpon>KURS_RUBL_FORMS.cs</DependentUpon>
     </Compile>
     <Compile Include="MODEL\CurrencyData.cs" />
     <Compile Include="MODEL\CurrencyMonthData.cs" />

@@ -29,7 +29,7 @@ namespace TP_LR_3_STAT
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+
         }
     }
 }

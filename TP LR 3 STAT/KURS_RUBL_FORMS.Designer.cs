@@ -1,5 +1,4 @@
-﻿
-namespace TP_LR_3
+﻿namespace TP_LR_3_STAT
 {
     partial class KURS_RUBL_FORMS
     {
